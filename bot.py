@@ -13,7 +13,7 @@ chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
 
 driver = webdriver.Chrome(options=chrome_options)
-driver.get("https://lemehost.com/server/3356304/free-plan")
+driver.get("https://lemehost.com/server/3362244/free-plan")
 
 print("Silahkan login manual dulu! Bot akan mulai otomatis setelah login dan sesuai jam.")
 
